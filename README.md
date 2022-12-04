@@ -13,4 +13,4 @@ Si te interesa el mundo de la programación y la inteligencia artificial, no dud
 
 Si quieres saber más sobre mis proyectos y habilidades, no dudes en contactarme. ¡Estoy deseando colaborar y aprender de otros desarrolladores! 🙌
 
-# ¡Gracias por visitar mi perfil! 😊🫰
+# ¡Gracias por visitar mi perfil! 😊
