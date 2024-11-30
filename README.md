@@ -5,8 +5,6 @@ I’m **Maximiliano Acosta**, a passionate software developer focused on modern 
 
 My education in **Programming Technician Degree** at **UTN Resistencia** complements my technical expertise, alongside a background in business administration, giving me a well-rounded perspective for tackling technological projects.  
 
----
-
 ## 🚀 Technologies and Tools  
 My tech stack features advanced Frontend development skills with complementary Backend capabilities and other tools:  
 
@@ -28,8 +26,6 @@ My tech stack features advanced Frontend development skills with complementary B
 - Git/GitHub  
 - API development and consumption (REST APIs)  
 
----
-
 ## 🌱 Featured Projects  
 Here are some of my most notable projects that showcase my passion for programming:  
 
@@ -39,14 +35,10 @@ Here are some of my most notable projects that showcase my passion for programmi
 
 - **AccesAR:** A mobile app that informs users about local roadblocks, providing optimized routes to save time and effort. 🚦  
 
----
-
 ## 🎯 Why Collaborate With Me?  
 - **Updated Technical Skills:** I stay current with modern technologies and development trends.  
 - **Proactivity and Continuous Learning:** I actively seek challenges that help me grow and improve.  
 - **Team Collaboration:** I value open, effective communication and commit to achieving shared goals.  
-
----
 
 ## 📩 Contact  
 I’m open to new opportunities and collaborations on exciting projects. Don’t hesitate to reach out!  
