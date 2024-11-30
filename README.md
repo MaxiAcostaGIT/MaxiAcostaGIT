@@ -1,16 +1,57 @@
 ![Banner para Linkedin Licenciada Marketing Minimalista Beige](https://github.com/user-attachments/assets/b5a73f93-6395-4e24-83fc-0cb5310f48f0)
 
-# ¡Bienvenido a mi perfil de GitHub! 💻
-Soy _Maximiliano Acosta_, un joven apasionado por la programación y la inteligencia artificial. En mi perfil podrás encontrar una variedad de proyectos personales y colaborativos que he desarrollado en lenguajes como C, Java y JavaScript, así como en librerías y frameworks como React, NodeJS y React Native. También estoy en proceso de aprendizaje de Python y C#. 💻🤖
+# Welcome to My GitHub Profile! 💻  
+I’m **Maximiliano Acosta**, a passionate software developer focused on modern Frontend technologies. I love creating intuitive and functional digital experiences using the latest tools and frameworks to deliver high-quality solutions.  
 
-Si te interesa el mundo de la programación y la inteligencia artificial, no dudes en visitar mis proyectos y dejar tus comentarios. Estoy siempre buscando oportunidades para aprender y colaborar con otros desarrolladores. 🚀
+My education in **Programming Technician Degree** at **UTN Resistencia** complements my technical expertise, alongside a background in business administration, giving me a well-rounded perspective for tackling technological projects.  
 
-## Aquí te dejo algunos de mis proyectos más destacados:
+---
 
-- Sistema de Facultad: Un proyecto que desarrollé en Java para facilitar el control y la gestión de datos en una institución educativa. El sistema incluye módulos para el registro y gestión de estudiantes, profesores, materias y calificaciones, entre otros. 📅
-- PomoTime: Un pomodoro que permite a los usuarios mejorar su productividad utilizando el método Pomodoro. La aplicación incluye funcionalidades como la configuración de sesiones de trabajo y descanso, la notificación de tiempos y la generación de estadísticas. 🏋️‍♂️🍎
-- AccesAR: Una aplicación de mobile que permite a los usuarios notificarse e informarse acerca de cortes en su zona. Permitiendo asi ofrecer mejores rutas para optimizar su tiempo y esfuerzo. 🤖
+## 🚀 Technologies and Tools  
+My tech stack features advanced Frontend development skills with complementary Backend capabilities and other tools:  
 
-Si quieres saber más sobre mis proyectos y habilidades, no dudes en contactarme. ¡Estoy deseando colaborar y aprender de otros desarrolladores! 🙌
+**Frontend:**  
+- React  
+- Next.js  
+- TypeScript  
+- HTML5, CSS3 (Sass, Tailwind CSS)  
 
-# ¡Gracias por visitar mi perfil! 😊
+**Backend:**  
+- Java  
+- C#  
+- Python  
+- .NET  
+- Django  
+- FastAPI  
+
+**Others:**  
+- Git/GitHub  
+- API development and consumption (REST APIs)  
+
+---
+
+## 🌱 Featured Projects  
+Here are some of my most notable projects that showcase my passion for programming:  
+
+- **Faculty Management System:** A Java-based application designed to streamline data management in educational institutions. Features include student, teacher, course, and grade management. 📚  
+
+- **PomoTime:** A productivity timer based on the Pomodoro technique. Allows users to configure work and break sessions, receive notifications, and generate statistics to optimize time management. ⏱️  
+
+- **AccesAR:** A mobile app that informs users about local roadblocks, providing optimized routes to save time and effort. 🚦  
+
+---
+
+## 🎯 Why Collaborate With Me?  
+- **Updated Technical Skills:** I stay current with modern technologies and development trends.  
+- **Proactivity and Continuous Learning:** I actively seek challenges that help me grow and improve.  
+- **Team Collaboration:** I value open, effective communication and commit to achieving shared goals.  
+
+---
+
+## 📩 Contact  
+I’m open to new opportunities and collaborations on exciting projects. Don’t hesitate to reach out!  
+
+**Phone:** +54 3624-686596  
+**Email:** maxiacostaworkspace@gmail.com  
+
+# Thanks for visiting my profile! 😊
