@@ -1,4 +1,4 @@
-![Banner para Linkedin Asesor de Moda Moderno Rosa](https://user-images.githubusercontent.com/111078580/205518318-a709ab74-8fe6-42f5-8ad1-1900b94b7f05.gif)
+![Banner para Linkedin Licenciada Marketing Minimalista Beige](https://github.com/user-attachments/assets/b5a73f93-6395-4e24-83fc-0cb5310f48f0)
 
 # ¡Bienvenido a mi perfil de GitHub! 💻
 Soy _Maximiliano Acosta_, un joven apasionado por la programación y la inteligencia artificial. En mi perfil podrás encontrar una variedad de proyectos personales y colaborativos que he desarrollado en lenguajes como C, Java y JavaScript, así como en librerías y frameworks como React, NodeJS y React Native. También estoy en proceso de aprendizaje de Python y C#. 💻🤖
